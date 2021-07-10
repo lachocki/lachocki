@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lachocki
 - 👀 I’m interested in designing trading bots!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL and TensorFlow in tandem with OpenAI Gym. As well as constant improvements in my Python abilities.
 - 💞️ I’m looking to collaborate on just about anything!
 - 📫 How to reach me www.linkedin.com/in/mlachocki
 
